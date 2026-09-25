@@ -1,0 +1,16 @@
+# SSH keys — never commit these
+y
+y.pub
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Next.js
+next-app/.next/
+next-app/node_modules/
+next-app/.env*
+
+# OS
+.DS_Store
+Thumbs.db
